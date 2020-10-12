@@ -1,2 +1,5 @@
-# Resume-builder
-A java code to build resume based on input given by the users then this resume is generated in form of pdf which can then be saved.
+# Resume-Builder
+A java application for building resume.
+
+Project Description 
+<iframe src="https://docs.google.com/document/d/1Hg44TSuVmNFNkmDahzNoMRhjvyY1i5oQezvIjEhT1YM/pub?embedded=true"></iframe>
